@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @MabelSamuel
-- 👀 I’m interested in web development and AI.
-- 🌱 I’m currently learning backend development.
-- 💞️ I’m looking to collaborate on web development.
+- 👋 Hi, I’m MabelSamuel, a full stack developer and AI policy actor.
 - 📫 How to reach me: mapleberrysamuel@gmail.com.
-- 😄 Pronouns: Her/She
 - ⚡ Fun fact: I would rather read the documentation than watch a video 😅.
 - 🔥 My stats:
 
