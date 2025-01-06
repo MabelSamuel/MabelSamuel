@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MabelSamuel, a full stack developer and AI policy actor.
+- 👋 Hi, I’m Mabel Samuel, a software developer and AI policy actor.
 - 📫 How to reach me: mapleberrysamuel@gmail.com.
 - ⚡ Fun fact: I would rather read the documentation than watch a video 😅.
 - 🔥 My stats:
