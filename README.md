@@ -1,4 +1,5 @@
-## 👋 Hi, I’m Mabel Samuel, a software developer and AI policy actor.
+## 👋 Hi, I’m Mabel Samuel, 
+a software developer and AI policy actor.
 ## 📫 How to reach me: 
 mapleberrysamuel@gmail.com.
 ## ⚡ Fun fact: 
