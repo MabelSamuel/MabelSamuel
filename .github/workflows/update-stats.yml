@@ -1,26 +1,29 @@
 name: Update GitHub Stats
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'  # runs every 12 hours
-  workflow_dispatch:        
+    - cron: '0 */12 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate GitHub Stats
+      - name: Fetch GitHub Stats with Private PRs
         run: |
-          curl "https://github-readme-stats.vercel.app/api?username=MabelSamuel&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=true&token=${{ secrets.GH_STATS_TOKEN }}" -o assets/github-stats.svg
+          mkdir -p assets
+          curl -v "https://github-readme-stats.vercel.app/api?username=MabelSamuel&count_private=true&show_icons=true&theme=dark&hide_border=true&token=${{ secrets.GH_STATS_TOKEN }}" -o assets/github-stats.svg
 
-      - name: Commit & Push
+      - name: Debug image output
+        run: ls -lh assets && file assets/github-stats.svg
+
+      - name: Commit and Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add assets/github-stats.svg
-          git commit -m "chore: update GitHub stats"
+          git commit -m "chore: update GitHub stats" || echo "No changes to commit"
           git push
