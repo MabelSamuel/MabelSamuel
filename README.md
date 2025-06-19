@@ -6,7 +6,13 @@ mapleberrysamuel@gmail.com.
 I would rather read the documentation than watch a video 😅.
 ## 🔥 My stats:
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MabelSamuel&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=MabelSamuel&show_icons=true&theme=dark)<br>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MabelSamuel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+</p>
+
+<!---
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MabelSamuel&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=MabelSamuel&show_icons=true&theme=dark)<br> 
+--->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MabelSamuel&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br>
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=MabelSamuel&langs_count=8&layout=compact)](https://github-readme-stats.vercel.app)
 
