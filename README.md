@@ -7,7 +7,7 @@ I would rather read the documentation than watch a video 😅.
 ## 🔥 My stats:
 
 <p>
-  <img height="180em" src="https://github-readme-stats-mabel-samuels-projects.vercel.app/api?username=MabelSamuel&show_icons=true&theme=dark&hide_border=true&count_private=true&private_contributions=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MabelSamuel&show_icons=true&theme=dark&hide_border=true&count_private=true&private_contributions=true&include_all_commits=true" />
 </p>
 
 <!-- ![Mabel's GitHub Stats](./assets/github-stats.svg) -->
