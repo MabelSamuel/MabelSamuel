@@ -15,7 +15,7 @@ I would rather read the documentation than watch a video 😅.
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MabelSamuel&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=MabelSamuel&show_icons=true&theme=dark)<br> 
 --->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MabelSamuel&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br>
-[![GitHub Streak](https://github-readme-stats-mabel-samuels-projects.vercel.app/top-langs/?username=MabelSamuel&langs_count=8&layout=compact)](https://github-readme-stats.vercel.app)
+[![GitHub Streak](https://github-readme-stats-mabel-samuels-projects.vercel.app/api/top-langs/?username=MabelSamuel&langs_count=8&layout=compact)](https://github-readme-stats.vercel.app)
 
 <!---
 MabelSamuel/MabelSamuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
