@@ -1,7 +1,7 @@
 ## 🌟 About me:
 Mabel Samuel is a software developer and AI policy actor.
 ## 📫 How to reach me: 
-mapleberrysamuel@gmail.com.
+mabelsamuelpaul@gmail.com.
 ## ⚡ Fun fact: 
 I would rather read the documentation than watch a video 😅.
 ## 🔥 My stats:
